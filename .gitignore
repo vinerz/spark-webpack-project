@@ -1,0 +1,13 @@
+# system files
+Thumbs.db
+.DS_Store
+
+# vendor
+node_modules
+
+# build
+/scripts/dist
+/npm-debug.log
+
+# SparkAR backups
+*.arprojbk

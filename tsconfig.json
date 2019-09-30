@@ -1,0 +1,14 @@
+{
+  "include": [
+    "scripts/src/*.js"
+  ],
+
+  "exclude": ["node_modules"],
+
+  "compilerOptions": {
+    "typeRoots": ["node_modules/@types", "@types"],
+    "allowJs": true,
+    "checkJs": true,
+    "outDir": "out-dir",
+  }
+}
