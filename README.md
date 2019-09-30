@@ -22,7 +22,7 @@ Now you can create and reuse modules within your project.
 * **ESLint**
   * [Airbnb ruleset](https://github.com/airbnb/javascript) derivated.
 * **TypeScript types**
-  * Contains all the SparkAR type system for VSCode IntelliSense (Updated to 30/09/2019 [v71]).
+  * Contains all the SparkAR type system for VSCode IntelliSense (updated to 30/09/2019 `v71`).
 
 ## Downloads
 
