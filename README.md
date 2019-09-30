@@ -5,20 +5,23 @@ This repository contains a Webpack-powered scripting environment for SparkAR.
 ## Why
 
 With this setup, you can enjoy all neat features from NPM packages, node and ESNEXT at your filters.
+
 If you are a heavy _scripter_ like me, you must feel very frustrated by the scripting limitations from the SparkAR engine.
+
 Throwing everything into a single file isn't a best practice and results into large, confusing and poorly written code.
+
 Now you can create and reuse modules within your project.
 
 ## Features
 
-* Webpack bundling
-* Babel
+* **Webpack bundling**
+* **Babel**
   * `preset-env` transpiling;
   * [Optional Chaining](https://dev.to/nimmo/optional-chaining-what-is-it-and-how-can-you-add-it-to-your-javascript-application-right-now-37ie);
   * [Object Rest Spread](https://v8.dev/features/object-rest-spread).
-* ESLint
-  * Air-bnb ruleset based.
-* TypeScript types
+* **ESLint**
+  * [Airbnb ruleset](https://github.com/airbnb/javascript) derivated.
+* **TypeScript types**
   * Contains all the SparkAR type system for VSCode IntelliSense (Updated to 30/09/2019 [v71]).
 
 ## Downloads
